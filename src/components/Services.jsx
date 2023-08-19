@@ -32,7 +32,7 @@ const Services = () => {
           initial= "hidden"
           whileInView={'show'}
           viewport={{once: false, amount: 0.1}}
-          style={{borderRadius: '10px'}} className="flex-1 lg:bg-services lg:bg-center bg-no-repeat">
+          style={{borderRadius: '10px'}} className="flex-1 lg:bg-services lg:bg-left bg-no-repeat">
            {/* /* <h2 className="h2 text-accent mb-6">What I Do.</h2>
             <h3 className="h3 max-w-[455px] mb-16 col-black">  I'm a freelance Front-end Developer with over 1 years of
               expirience</h3>
